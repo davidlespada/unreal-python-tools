@@ -17,7 +17,7 @@
 ### Prerequisites
 
 - Unreal Engine 5.x
-- Python 3.7 or higher
+- Python 3.9 or higher
 - Unreal Engine Python API enabled
 
 ### How to use
