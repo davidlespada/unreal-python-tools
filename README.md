@@ -1,2 +1,69 @@
-# unreal-python-tools
-Collection of Python scripts for Unreal Engine to enhance and automate development workflows
+# 🎮 Unreal Python Scripts
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.x-blue)
+![Python](https://img.shields.io/badge/Python-3.7%2B-yellow)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+> 🚀 A collection of Python scripts for Unreal Engine to enhance and automate development workflows.
+
+## 📋 Features
+
+- 🔄 Automation scripts
+- ⚡ Performance optimizations
+- 🛠️ Development helpers
+- 🎯 Workflow enhancements
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Unreal Engine 5.x
+- Python 3.7 or higher
+- Unreal Engine Python API enabled
+
+## 📋 Available Scripts
+
+### 🗂️ outliner_structure_creator.py
+Automatically creates and organizes zone-based folder structures in your level outliner. Perfect for maintaining consistent level organization across your project.
+
+<details>
+<summary>View Details</summary>
+
+```python
+# Quick usage
+from outliner_structure_creator import create_zone_structure
+
+zones = ["Hub", "Zone1", "Zone2"]
+folders = ["Art", "Gameplay", "Sound"]
+
+create_zone_structure(zones, folders)
+```
+
+See [documentation](docs/outliner_structure_creator.md) for detailed usage.
+</details>
+
+
+## 📚 Documentation
+
+Each script has the instructions on how to use it in the script itself.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please check our [Contributing Guidelines](CONTRIBUTING.md).
+
+## 📝 License
+
+MIT License - See [LICENSE](LICENSE) for details.
+
+---
+
+<div align="center">
+
+⭐ Star this repo if you find it useful! ⭐
+
+</div>
+
+<div align="center">
+
+⭐ Star this repo if you find it useful! ⭐
+
+</div>
