@@ -61,9 +61,3 @@ MIT License - See [LICENSE](LICENSE) for details.
 ⭐ Star this repo if you find it useful! ⭐
 
 </div>
-
-<div align="center">
-
-⭐ Star this repo if you find it useful! ⭐
-
-</div>
