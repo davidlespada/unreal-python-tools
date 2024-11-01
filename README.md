@@ -40,14 +40,7 @@ folders = ["Art", "Gameplay", "Sound"]
 
 create_zone_structure(zones, folders)
 ```
-
-See [documentation](docs/outliner_structure_creator.md) for detailed usage.
 </details>
-
-
-## 📚 Documentation
-
-Each script has the instructions on how to use it in the script itself.
 
 ## 🤝 Contributing
 
