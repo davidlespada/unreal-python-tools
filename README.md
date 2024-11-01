@@ -21,7 +21,7 @@
 - Unreal Engine Python API enabled
 
 ### How to use
-Download any script you want and execute it with Unreal as any other python script⚡
+Download the script you want and execute it with Unreal as any other python script⚡
 
 ## 📋 Available Scripts
 
