@@ -20,6 +20,9 @@
 - Python 3.7 or higher
 - Unreal Engine Python API enabled
 
+### How to use
+Download any script you want and execute it with Unreal as any other python script⚡
+
 ## 📋 Available Scripts
 
 ### 🗂️ outliner_structure_creator.py
