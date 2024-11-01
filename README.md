@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.7%2B-yellow)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-> 🚀 A collection of Python scripts for Unreal Engine to enhance and automate development workflows.
+> 🛠️ A collection of Python scripts for Unreal Engine to enhance and automate development workflows.
 
 ## 📋 Features
 
